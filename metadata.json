@@ -1,0 +1,5 @@
+{
+  "name": "Vision’s Chess",
+  "description": "A clean, minimalist chess game for Android with progressive AI levels, local multiplayer, and persistent scoreboard.",
+  "requestFramePermissions": []
+}
